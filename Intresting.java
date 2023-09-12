@@ -1,0 +1,2 @@
+class Intresting extends Jewellery{
+}

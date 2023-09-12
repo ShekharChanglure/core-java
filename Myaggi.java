@@ -1,0 +1,2 @@
+class Myaggi extends FastFood{
+}

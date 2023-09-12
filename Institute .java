@@ -1,0 +1,2 @@
+class Institute extends TrainingCenter{
+}

@@ -1,0 +1,2 @@
+class Siddhu extends Developer{
+}

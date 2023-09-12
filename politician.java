@@ -1,0 +1,4 @@
+
+class Politician extends Minister{
+	
+}

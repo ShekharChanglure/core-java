@@ -1,0 +1,3 @@
+class Telephone extends ElectronicDevice{
+	
+}

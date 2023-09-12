@@ -1,0 +1,3 @@
+class ChinnaswamyStadium extends Stadium{
+	
+}

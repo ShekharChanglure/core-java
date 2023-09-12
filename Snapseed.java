@@ -1,0 +1,2 @@
+class Snapseed extends EditingSoftware{
+}

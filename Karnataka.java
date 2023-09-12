@@ -1,0 +1,2 @@
+class Karnataka extends State{
+}

@@ -1,0 +1,2 @@
+class Bidar extends District{
+}
